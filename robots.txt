@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kakekcaishen.github.io/sitemap.xml
